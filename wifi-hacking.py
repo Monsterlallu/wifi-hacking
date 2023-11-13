@@ -22,7 +22,7 @@ def intro():
 ██║███╗██║██║██╔══╝  ██║   ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║    
 ╚███╔███╔╝██║██║     ██║   ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝    
  ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝
-Author  : AKASH BLACK HAT
+Author  : MONSTER LALLU
 -------------------------------------------------------------------------  
 (1)Start monitor mode       
 (2)Stop monitor mode
@@ -188,12 +188,12 @@ Author  : AKASH BLACK HAT
         cmd = os.system("clear")
         print("""
 Hi.
-My Name AKASHBLACKHAT , A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
+My Name MONSTER LALLU , KCH HACKER,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
 you can find on YOUTUBE !
 
-https://www.youtube.com/channel/UCWlAUmBOM07RXwwfZyfj_uw
+https://github.com/Monsterlallu
 
-Contack me +91 8389020949
+Contack me +91 7736129238
 
 Feel Free to Contact,
 
